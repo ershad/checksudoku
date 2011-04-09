@@ -1,1 +1,4 @@
 A program to check sudoku for errors
+
+TODO:
+1. Check the validity of numbers while reading from the file (Thanks to Ragesh sir for the suggestion) #optimization
