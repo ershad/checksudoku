@@ -1,7 +1,7 @@
 /*
 * checksudoku.c
 *
-* Copyright 2010 Ershad K <ershad92@gmail.com>
+* Copyright 2011 Ershad K <ershad92@gmail.com>
 *
 * This program is free software; you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
